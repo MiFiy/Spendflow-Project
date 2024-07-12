@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217308957591",
+    "project_id": "spendflow-dcec6",
+    "storage_bucket": "spendflow-dcec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217308957591:android:3e5697212c7d3f814a92d2",
+        "android_client_info": {
+          "package_name": "com.example.spendflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdL8Tahyx7Wwrj9GVy1R-r7VeYe9ftzj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
